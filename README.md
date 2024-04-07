@@ -1,8 +1,4 @@
 # Bear-Bull-Stock-Market-Prediction
-echo "# Bear-Bull-Stock-Market-Prediction" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/05Harini/Bear-Bull-Stock-Market-Prediction.git
-git push -u origin main
+The stock market is uncertain, volatile, and multidimensional. Stock prices have been difficult to predict since they are influenced by a variety of factors. In order to make critical investment and financial decisions, investors and analysts are interested in predicting stock prices. Predicting a stock’s price entails developing price pathways that a stock might take in the future. The use of Long Short-Term Memory (LSTM) networks for stock market prediction is a popular method in the field of financial time series analysis. LSTMs are a type of recurrent neural network (RNN) that are well-suited for modeling sequential data, such as stock market data, due to their ability to retain long-term memory. In a typical LSTM-based stock market prediction model, historical stock market data, such as stock prices and trading volumes, are used as input to the network. The LSTM network is trained to learn the patterns and relationships in the data, and to make predictions about future stock prices. One key aspect of using LSTMs for stock market prediction is the preprocessing of the data. This typically involves normalizing the data, removing any irrelevant features, and creating a set of inputoutput pairs for the network to learn from. The input to the LSTM network is a sequence of historical stock market data, and the output is the corresponding future stock price. Once the LSTM network is trained, it can be used to make predictions about future stock prices. These predictions can then be used by traders and investors to make informed decisions about buying and selling stocks.
+
+Here, we explore data from the stock market, particularly some technology stocks (Microsoft, Google, Apple, and Amazon). 
